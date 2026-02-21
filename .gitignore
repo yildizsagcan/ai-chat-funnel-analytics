@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Node / Python (ileride eklenirse)
+node_modules/
+__pycache__/
+*.pyc
